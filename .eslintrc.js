@@ -193,6 +193,10 @@ module.exports = {
     'object-curly-spacing': [2, 'always', {
       objectsInObjects: false
     }],
-    'array-bracket-spacing': [2, 'never']
+    'array-bracket-spacing': [2, 'never'],
+    "vue/max-attributes-per-line": "off",
+    "vue/html-end-tags": 'off',
+    "vue/html-indent": 'off',
+    "vue/html-closing-bracket-newline":"off"
   }
 }

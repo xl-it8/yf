@@ -16,8 +16,8 @@
       </el-form-item>
       <el-form-item>
         <div class="btn">
-          <el-button type="primary" @click="onSubmit">查询</el-button>
-          <el-button type="primary" @click="onSubmit">重置</el-button>
+          <el-button type="primary">查询</el-button>
+          <el-button type="primary">重置</el-button>
         </div>
       </el-form-item>
     </el-form>
